@@ -15,6 +15,8 @@ In our lab, we are dedicated to creating a safe, welcoming, and healthy environm
 
 ## Working Environment
 
+## Issues Outside of the Lab
+
 ## Data Policy
 
 ## Publications and Authorship
