@@ -5,23 +5,23 @@ Here in the Byrnes lab, we are dedicated to understanding the forces that shape 
 
 ## The Quick Version
 
-In our lab, we are dedicated to creating a safe, welcoming, and healthy environment to nurture the best research and researchers to move science forward. This includes providing a harrassment-free space and welcome anyone regardless of race, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, religious beliefs, socioeconomic background, nationality, or other categories not explicitly enumerated here. We are here for the work and for our love of science and the sea. Discriminatory behavior, dehumanizing and objectifying language or imagery in any context, or lack of respect of each other - particularly with respect to the aforementioned categories, has no place in this lab. Nor in science, really. We want to make the culture of science better, starting at home.
+In our lab, we are dedicated to creating a safe, welcoming, and healthy environment to nurture the best research and researchers to move science forward. This includes providing a harrassment-free space and welcome anyone regardless of the myriad facets of human diversity. We are here for the work and for our love of science and the sea. Discriminatory behavior, dehumanizing and objectifying language or imagery in any context, or lack of respect of each other - particularly with respect to the aforementioned categories, has no place in this lab. Nor in science, really. We want to make the culture of science better, starting at home.
 
 ## Inclusivity and Diversity
 
 Science has for too long been the domain of white able-bodied cis-gendered men of means. This has ramifications for the ideas and perspectives that can be considered within science and, moreover, means that science does not reflect society. How many contributions and stunning discoveries have been lost?  
 
-In our lab, we welcome and encourage the participation of anyone regardless of race, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, religious beliefs, socioeconomic background, nationality, or other categories not explicitly enumerated here. We recognize that many members of the lab or those who wish to be part of the lab come from backgrounds with significant challenges to participate in science. Our job is to listen to them. To believe them. To be allies in ways that are helpful. To help each other overcome barriers on their path to being great scientists, rather than putting more in front of them.
+In our lab, we welcome and encourage the participation of anyone regardless of race, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, religious beliefs, socioeconomic background, nationality, or the many other categories not explicitly mentioned here. We recognize that many members of the lab or those who wish to be part of the lab come from backgrounds with significant challenges to participate in science. Our job is to listen to them, to believe them, to be allies in ways that are helpful, to help each other overcome barriers on their path to being great scientists, rather than putting more in front of them.
 
 Discrimination against any of these will not be tolerated. That said, mistakes happen. Unintentional microagressions - particularly those learned over time in the past as something perceived as harmless - will happen, even with no malice or bad intentions. We are all working on ourselves, and we will all say and do things we do not mean. In that case, it is incumbent upon us to listen, to not immediately engage in defensive deflection, to learn from the mistake, and do the work to do better.
 
 ## Respect for Mental Health
 
-Sanity first! Working in science can be difficult for one's mental health. We are constantly at the cutting edge, and failure is constant - both in terms of results of our work and rejection in the form of grant proposals and papers. In the modern university, we are also asked to wear many hats, often at the same time.
+Working in science can be difficult for one's mental health. We are constantly at the cutting edge, and failure is constant - both in terms of results of our work and rejection in the form of grant proposals and papers. In the modern university, we are also asked to wear many hats, often at the same time. Mental health has long carried a stigma in academia, and it's time to move past that and acknowledge the reality.
 
 In the Byrnes lab, we know that your mental health is crucial for being a great scientist. You should never feel obligated to push yourself to be unhealthy. Take breaks. Go on vacation. Have a hobby. Read a book - the trashier the better! Cook elaborate meals! Send us the recipes! Do the things you need to do to have a healthy balanced life. If you feel this is not possible, have a discussion with Prof. Byrnes and other members of the lab.
 
-We all work to be healthy and happy. Whether it's retooling your expectations of yourself or, heck, therapy (even Prof. Byrnes engages in it!), let's talk about it. It's the most important thing.
+We all work to be healthy and happy. Whether it's retooling your expectations of yourself, tackling your [imposter syndrome](https://en.wikipedia.org/wiki/Impostor_syndrome) (we have all been there), or, heck, considering the importance of therapy (even Prof. Byrnes engages in it!), let's talk about it. It's the most important thing.
 
 ## Working Environment
 
