@@ -11,7 +11,7 @@ In our lab, we are dedicated to creating a safe, welcoming, and healthy environm
 
 Science has for too long been the domain of white able-bodied cis-gendered men. This has ramifications for the ideas and perspectives that can be considered within science and, moreover, means that science does not reflect society. How many contributions and stunning discoveries have been lost?
 
-In our lab, we welcome and encourage the participation of anyone regardless of race, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, religious beliefs, socioeconomic background, nationality, or other categories not explicitly enumerated here. Moreover, discrimination against any of these will not be tolerated.
+In our lab, we welcome and encourage the participation of anyone regardless of race, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, religious beliefs, socioeconomic background, nationality, or other categories not explicitly enumerated here. Moreover, discrimination against any of these will not be tolerated. That said, mistakes happen - we are all working on ourselves, and we will all say and do things we do not mean. In that case, it is incumbent upon us to learn from the mistake and do the work to do better.
 
 ## Respect for Mental Health
 
