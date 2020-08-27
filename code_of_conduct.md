@@ -27,9 +27,11 @@ We all work to be healthy and happy. Whether it's retooling your expectations of
 
 The first goal of everyone in the lab is the success of all of their labmates! We want to succeed, advance our careers, push science forward, and enjoy doing it. As such, all interactions with each other - from daily conversation to feedback to working together in the field - should take place from a place of support and our mutual success. Listening, empathy, mindfulness, and mutual respect are cornerstones of the environment we want to create. We want to have a positive environment.
 
-Overt discrimination, unwated sexual advances,
+Overt discrimination, unwanted sexual advances, unwanted sexual comments, undesired attention, and use of power to take advantage of others are not tolerated.
 
-We are also all human. If you
+We are also all human. If you have erred, listed to the feedback on your actions - be it from the person involved, from Prof. Byrnes, or others who become involved in this discussion. Listen. Learn. Make meaningful restitution. And know that forgiveness may not be granted to you in the way you want. We can only grow.
+
+Above all, we strive to make the working environment to be intellectually stimulating, enjoyable, and allow for everyone involved to grow and become better people and scientists than when they first arrived.
 
 ## Issues Outside of the Lab
 
