@@ -27,9 +27,17 @@ We all work to be healthy and happy. Whether it's retooling your expectations of
 
 ## Data Policy
 
+Open data is the key to scientific reproducibility and synthesis for the advancement of knowledge. All data collected by Byrnes lab members must be open at time of publication of manuscripts or within two years of completion of your time in this lab. We suggest using The [Knowledge Network for Biocomplexity](https://knb.ecoinformatics.org/), [Temperate Reefbase](https://temperatereefbase.imas.utas.edu.au/static/landing.html), [Data Dryad](https://datadryad.org/stash), or other appropriate LTER or other repository for your data, as there it must not only meet their quality standards by also have the appropriate meta-data for re-use. All publications must include the DOI and reference to the data. All data, when released, must meet [FAIR](https://www.go-fair.org/fair-principles/) (Findability, Accessibility, Interoperability, and Reuse) principles.
+
+Similarly, all code must be made public at time of publication so that your work is fully reproducible. We suggest using [GitHub](http://github.com) and, at time of publication, making a formal code release so that you can get a DOI that can be referenced in the manuscript in addition to including it as a code supplement.
+
+When possible, develop your data and code in the open! Again, we highly recommend [GitHub](http://github.com).
+
 ## Publications and Authorship
 
 Science is a team sport. We advance our careers through collaboration and intellectual contribution. Papers authored within the lab should recognize serious substantive intellectual contribution through authorship. When in doubt, discuss it with an eye towards generosity - particularly to more junior members. An undergraduate doing both intellectual and manual work on a project will benefit from inclusion in ways that more senior colleagues can easily forget. Further, we encourage all  members, whenever engaging in any form of collaboration inside or outside of the lab, to discuss authorship *first* before doing the work in order to make sure contributions are recognized if there is any doubt or if this is a new collaborative arrangement. Prof. Byrnes will work his hardest at contributing to all work going on in the lab and sign on as senior (i.e., last) author - but only if it feels warranted by those leading the work.
+
+As a lab, we support open access to all research. We recognize, at the same time, that the incentives of journal publishing do not always make open access journals possible. This placement of professional advancement within the system versus the ethics of publication is a difficult path to navigate. As such, we try and put all manuscripts up as preprints at either [bioRxiv](https://www.biorxiv.org/), [arXiv](https://arxiv.org/), or [ecoevoRxiv](https://ecoevorxiv.org/) along with revisions to ensure accessibility and early access by colleagues.
 
 ## Social Media
 
