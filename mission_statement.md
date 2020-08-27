@@ -2,8 +2,7 @@
 
 ## Scientific Mission
 
-The Byrnes lab is fundamentally about understanding the consequences of global change in our oceans. The oceans of the world have long provided humans with sustenance, climate regulation, beauty, and cultural heritage. We are in an undeniable period of rapid and long-lasting global change. We are witnessing rising sea levels, warming waters, overharvesting, rapid movement of non-native species, range expansions and local extinctions of many species, and more. Here in the Byrnes lab, our mission is to discover and apply basic ecological principles to understand this rapidly changing ocean. We focus our work in kelp forests, salt marshes, and the rocky intertidal as they provide a direct lens into the past and future of the waters of New England. 
-
+The Byrnes lab is fundamentally about understanding the consequences of global change in our oceans. The oceans of the world have long provided humans with sustenance, climate regulation, beauty, and cultural heritage. We are in an undeniable period of rapid and long-lasting global change. We are witnessing rising sea levels, warming waters, overharvesting, rapid movement of non-native species, range expansions and local extinctions of many species, and more. **Here in the Byrnes lab, our mission is to discover and apply basic ecological principles to understand this rapidly changing ocean.** We use a wide variety of disciplinary approaches to achieve these aims, as the scholarship of ecological systems must embrace every tool at our disposal from field ecology to policy to statistics to sociology to applied mathematics to citizen science. We focus our work in kelp forests, salt marshes, and the rocky intertidal and subtidal as they provide a direct lens into the past and future of the waters of New England. 
 
 ## Mission as Part of the Life Scientific
 
