@@ -13,7 +13,11 @@ Science has for too long been the domain of white able-bodied cis-gendered men o
 
 In our lab, we welcome and encourage the participation of anyone regardless of race, gender, gender identity and expression, age, sexual orientation, disability, physical appearance, body size, religious beliefs, socioeconomic background, nationality, or the many other categories not explicitly mentioned here. We recognize that many members of the lab or those who wish to be part of the lab come from backgrounds with significant challenges to participate in science. Our job is to listen to them, to believe them, to be allies in ways that are helpful, to help each other overcome barriers on their path to being great scientists, rather than putting more in front of them.
 
-Discrimination against any of these will not be tolerated. That said, mistakes happen. Unintentional microagressions - particularly those learned over time in the past as something perceived as harmless - will happen, even with no malice or bad intentions. We are all working on ourselves, and we will all say and do things we do not mean. In that case, it is incumbent upon us to listen, to not immediately engage in defensive deflection, to learn from the mistake, and do the work to do better.
+Discrimination against any of these will not be tolerated. Interactions within the lab, while encouraged to be friendly and informal, must conform to best professional behavior. Conversations of a sexual nature, unwanted comments regarding race or religious background, discussion of physical bodies, sending graphic imagery, persistent harassment, and other unprofessional interactions are not appropriate and are likewise not tolerated within the lab.
+
+It is the responsibility of all members of the lab to maintain a safe, mentally healthy, productive, and professional environment.
+
+We do recognize recognize mistakes happen. Unintentional microagressions - particularly those learned over time in the past as something perceived as harmless - will happen, even with no malice or bad intentions. We are all working on ourselves, and we will all say and do things we do not mean. In that case, it is incumbent upon us to listen, to not immediately engage in defensive deflection, to learn from the mistake, to make a repair, and do the work to do better.
 
 ## Respect for Mental Health
 
@@ -33,7 +37,13 @@ We are also all human. If you have erred, listen to the feedback on your actions
 
 Above all, we strive to make the working environment to be intellectually stimulating, enjoyable, and allow for everyone involved to grow and become better people and scientists than when they first arrived.
 
-## Issues Outside of the Lab
+## Field Safety
+
+We recognize that fieldwork has inherent risks. First and foremost, no data point with worth risking safety. It is often difficult when leading a project to judge risk. We as a lab adopt a conservative approach. Particularly when working with collaborators - be they seasoned scientists or lab techs or new undergraduates - it is incumbent upon all of us to listen to safety concerns and make the decision that leads to all feeling safe and that their wellbeing is first and foremost. The data can wait.
+
+In terms of specifics, we do not boat during a small-craft advisory unless there is some reason that the conditions are not relevant. We do not work where we can be exposed to the waters of Boston Harbor until at least 2 days after a rain storm. If there is heavy rain, flooding, hurricanes, or other weather-related which can affect field sites or access, DO NOT GO.
+
+Safety first. Then data.
 
 ## Data Policy
 
@@ -58,4 +68,4 @@ In the Byrnes lab, we encourage any and all members to participate in social med
 
 ## Enforcement
 
-Below, we enumerate our values as a lab. But, a statement of values without Enforcement is meaningless. In the case of a violation of any element of our code of conduct, please discuss it with Prof. Byrnes. He will talk to the responsible party - both to attempt to rectify the immediate situation but also to start a dialogue around understanding why this is an important tenant of being a scientist in the modern world. If the problem persists intentionally, this could lead to a more serious discussion of the member's role within the lab. At any time, if warranted, Prof. Byrnes is happy to bring in the chair, GPD, or other relevant element of the University administration. For appropriate issues, Prof. Byrnes is happy to consult with [UMB Office of Civil Rights and Title IX](https://www.umb.edu/crtix) or the [Office of Diversity, Equity, and Inclusion](https://www.umb.edu/odei).
+Below, we enumerate our values as a lab. But, a statement of values without Enforcement is meaningless. In the case of a violation of any element of our code of conduct, please discuss it with Prof. Byrnes. He will talk to the responsible party - both to attempt to rectify the immediate situation but also to start a dialogue around understanding why this is an important tenant of being a scientist in the modern world. If the problem persists, this could lead to a more serious discussion of the member's role within the lab. At any time, if warranted, Prof. Byrnes is happy to bring in the chair, GPD, or other relevant element of the University administration. For appropriate issues, Prof. Byrnes is happy to consult with [UMB Office of Civil Rights and Title IX](https://www.umb.edu/crtix) or the [Office of Diversity, Equity, and Inclusion](https://www.umb.edu/odei). If, for whatever reason, you feel uncomfortable  discussing a problem with Prof. Byrnes, you are encouraged to approach these resources.
